@@ -1,6 +1,4 @@
-# How to Restore Your CSV Data Files
 
-## 🚨 Important: Your CSV files were permanently deleted
 
 The original CSV files were deleted using `Remove-Item -Force` which bypasses the Recycle Bin. They cannot be recovered from the filesystem.
 
