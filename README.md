@@ -2,7 +2,7 @@
 
 A comprehensive analytics platform for stock market data analysis, featuring data processing pipelines, technical indicators, and interactive Power BI visualizations.
 
-![Financial Market Analytics](image.png)
+![Financial Market Analytics](Screenshot 2026-03-15 003647.png)
 
 ## 📊 Overview
 
