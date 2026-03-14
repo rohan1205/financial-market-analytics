@@ -2,8 +2,7 @@
 
 A comprehensive analytics platform for stock market data analysis, featuring data processing pipelines, technical indicators, and interactive Power BI visualizations.
 
-![Financial Market Analytics](Screenshot 2026-03-15 003647.png)
-
+![Financial Market Analytics](./Screenshot%202026-03-15%20003647.png)
 ## 📊 Overview
 
 This project provides end-to-end stock market analytics capabilities, from raw data collection to advanced technical analysis and interactive dashboard visualization. It processes historical stock data, calculates key technical indicators, and identifies trading opportunities through systematic analysis.
